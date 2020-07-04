@@ -150,6 +150,8 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
+- [Vhinny - Fundamental Financials for Machine Learning](https://www.vhinny.com/)
+
 ###### [TOC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
@@ -168,6 +170,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
+- [Vhinny Screener](https://www.vhinny.com/screen)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
