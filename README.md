@@ -123,6 +123,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
+- **[Aiolux - Free Daily reports focused on short/intermediate term (seasonality, sentiment & more)](https://aiolux.com/)**
 - [Wallmine](https://www.wallmine.com)
 - [Grufity Stock Research](https://grufity.com/stock/)
 - [TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)
@@ -199,6 +200,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Finviz - Financial Visualizations](https://www.finviz.com)**
 - **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
+- **[Aiolux - Cloud Portfolio Tools (Sharpe Ratio, Value at Risk, Alpha etc.](https://aiolux.com/tools/sharpe-ratio-calculator)**
 - [Finbox](https://www.finbox.com)
 - [Atom Finance](https://www.atom.finance/)
 - [Gurufocus - Value Investing & Market Insight of Investment Gurus](https://www.gurufocus.com)
@@ -216,6 +218,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[Finviz Screener](https://finviz.com/screener.ashx)**
 - **[LazyFA Screener](https://www.lazyfa.com/screener)**
 - **[Tiingo Screener](https://www.tiingo.com/screener/overview)**
+- **[Aiolux Snapshots](https://aiolux.com/snapshots)**
 - [Stockrow Screener](https://www.stockrow.com/screener/)
 - **[TradingView Screener](https://www.tradingview.com/screener/)**
 - [Wallmine Screener](https://www.wallmine.com/screener/)
