@@ -120,6 +120,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Finviz Relative Performance by Industry](https://www.finviz.com/groups.ashx?g=industry&v=210&o=name)
 - [Finviz Relative Performance by Sector](https://www.finviz.com/groups.ashx?g=sector&v=210&o=name)
 - [Finviz Recent News](https://www.finviz.com/news.ashx)
+- **[Tracktak - Automated Discounted Cash Flow Analysis](https://www.tracktak.com)**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
