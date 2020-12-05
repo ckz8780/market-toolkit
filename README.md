@@ -244,6 +244,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- **[SEC Forms List](https://www.sec.gov/forms)**
 	- **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
 	- **[LazyFA Market Events](https://www.lazyfa.com/events/)**
+	- **[Eclect.us Condensed 10K & 10Q's](https://eclect.us/)**
 	- [Intelligize SEC Forms Quick Reference Guide (PDF)](https://www.intelligize.com/wp-content/uploads/2017/09/intelligize_sec_forms_guide.pdf)
 	- [Investopedia SEC Filings You Need to Know](https://www.investopedia.com/articles/fundamental-analysis/08/sec-forms.asp)
 	- [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
