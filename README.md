@@ -74,6 +74,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[Tim Parker - News and the Stock Market](https://www.youtube.com/watch?v=4IDG8VtYats)**
 - [Khan Academy - Stocks and Bonds](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds)
 - [Khan Academy - Funds and Other Investment Vehicles](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial)
+- [Best Stock Strategy - Options Trading Education Material](https://beststockstrategy.com/)
 - [Investopedia Investing Essentials Category](https://www.investopedia.com/investing-essentials-4689754)
 - [Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)
 - [OptionAlpha Education Center](https://optionalpha.com/members/education)
