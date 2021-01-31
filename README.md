@@ -369,6 +369,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[Investors Underground - Same as Above](https://www.youtube.com/user/investorsunderground/)**
 - **[Quoth The Raven Research - Speeches/Podcasts](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
 - **[Chat With Traders - Tons of Awesome Interviews](https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg)**
+- **[0 to Hero Investing - Market Commentary and Stock Analysis](https://www.youtube.com/c/0toHeroInvesting)**
 - **[The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor)**
 ###### [TOC](#toc)
 ---
@@ -426,6 +427,7 @@ There are two general approaches to investing: active and passive. Active invest
 	 - [NYC Trader](https://twitter.com/szaman)
 	 - [Kunal Desai](https://twitter.com/kunal00)
 	 - [SentimEntropy](https://twitter.com/SentimEntropy)
+	 - [0 to Hero Investing](https://twitter.com/0_hero_invest)
 ###### [TOC](#toc)
 
  - <a id="twitter-research"></a>Research/Journalist/Funds/HFT:
