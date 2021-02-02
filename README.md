@@ -138,6 +138,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Stock Market Analytics](https://www.equitieslab.com/)
 - [Market Chameleon](https://www.marketchameleon.com/)
 - [CityFALCON - Personalized Financial News Feed and Data Warehouse](https://www.cityfalcon.com/)
+- [TIKR: Institutional-grade investing for individuals](https://app.tikr.com/register?ref=c4fgj6)
 ###### [TOC](#toc)
 ---
 **<a id="calendars"></a>CALENDARS:**
@@ -184,6 +185,8 @@ There are two general approaches to investing: active and passive. Active invest
 - **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
 - **[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)** *(AKA ToS, from TD Ameritrade)*
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
+- [ToggleAI - AI Analysis](https://toggle.ai/)
+
 ###### [TOC](#toc)
 ---
 **<a id="fa-education"></a>FUNDAMENTAL ANALYSIS (Education):**
