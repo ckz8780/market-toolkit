@@ -31,6 +31,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Education](#fa-education)
 	- [Tools](#fa-tools)
 - [SCANNERS, SCREENERS & IDEA GENERATION](#scanners)
+- [PORTFOLIO TRACKING TOOLS](#portfolio-tracking)
 - [TRADE ANALYSIS & REVIEW](#trade-analysis)
 - [SEC FILINGS](#filings)
 	- [Research & Education](#filings-education)
@@ -234,6 +235,10 @@ There are two general approaches to investing: active and passive. Active invest
 - [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
 - [senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
 - [Ortex.com - ORTEX](https://www.ortex.com)
+###### [TOC](#toc)
+---
+**<a id="portfolio-tracking"></a>PORTFOLIO TRACKING TOOLS:**
+- [The Measure of a Plan -- google sheets spreadsheet](https://themeasureofaplan.com/investment-portfolio-tracker/)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
