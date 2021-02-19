@@ -110,6 +110,10 @@ There are two general approaches to investing: active and passive. Active invest
 **<a id="brokers-european"></a>BROKERS & TRADING SOFTWARE (European):**
 - [Degiro](https://www.degiro.eu/)
 - [Interactive Brokers](https://www1.interactivebrokers.com/en/home.php)
+- [IG](https://www.ig.com/)
+- [Tastyworks](https://tastyworks.com/)
+- [Trading 212](https://www.trading212.com/)
+- [Flatex](https://www.flatex.de/)
 ###### [TOC](#toc)
 
 **<a id="brokers-reviews"></a>BROKERS & TRADING SOFTWARE (Reviews and Guides):**
