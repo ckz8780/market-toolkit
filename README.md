@@ -450,6 +450,7 @@ There are two general approaches to investing: active and passive. Active invest
 - <a id="developers-general"></a>General Resources
 	- [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
 	- [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
+	- [Awesome crypto trading bots - Crypto trading bots tools and resources](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 	###### [TOC](#toc)
 
 - <a id="developers-engines"></a>Algo Trading Engines
