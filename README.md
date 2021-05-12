@@ -213,6 +213,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
 - [sharelab - US Stock Comparison Based on Empirical Finance Academia](https://www.sharelab.com)
+- **[Tracktak.com - Automated Intrinsic Valuations](https://tracktak.com)**
 ###### [TOC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
