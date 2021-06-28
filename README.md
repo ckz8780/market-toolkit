@@ -234,6 +234,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
 - [senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
 - [Ortex.com - ORTEX](https://www.ortex.com)
+- [Stock Market Top Movers](https://dashboard.nbshare.io/apps/stockmarket/movers/)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
